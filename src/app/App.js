@@ -7,7 +7,7 @@ import './App.css';
 function App() {
     return(
         <div className='container'>
-            <Header sitename="React-site"/>
+            <Header sitename="React-site" sitedescription="for developers"/>
             <Main/>
             <Sidebar/>
             <Footer/>
